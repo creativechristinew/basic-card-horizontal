@@ -8,7 +8,7 @@
 
 body {
     background-color: gray;
-    background-image: url('assets/background.png');
+    background-image: url('background-coralreef.png');
     background-repeat: no-repeat;
     overflow: hidden;
 }
@@ -30,8 +30,8 @@ body {
 
 h1{
   margin-bottom: 0px;
-  font-family: 'Kumbh Sans', sans-serif;
-  font-weight: 600;
+  font-family:  "Londrina Solid", sans-serif;
+  font-weight: 900;
   text-align: center;
   font-size: 45px;
   position: relative; top: 40px;
@@ -42,8 +42,8 @@ h1{
 h2{
   margin-top: 0px;
   padding-top: 0px;
-  font-family: 'Kumbh Sans', sans-serif;
-  font-weight: 200;
+  font-family:  "Londrina Solid", sans-serif;;
+  font-weight: 400;
   text-align: center;
   position: relative; 
   top: 40px;
