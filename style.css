@@ -7,7 +7,7 @@
 
 
 body {
-    background-color: gray;
+    background-color: #5A9DCF;
     background-image: url('background-coralreef.png');
     background-repeat: no-repeat;
     overflow: hidden;
@@ -24,14 +24,14 @@ body {
   margin: 0 auto;
   overflow: hidden;
   box-shadow: 2px 5px 15px 0px #17161694;
-  background-color:rgb(255, 255, 255);
+  background-color:#AFE9EF;
   border-radius: 30px;
 }
 
 h1{
   margin-bottom: 0px;
   font-family:  "Londrina Solid", sans-serif;
-  font-weight: 900;
+  font-weight: 400;
   text-align: center;
   font-size: 45px;
   position: relative; top: 40px;
@@ -61,14 +61,14 @@ h3{
 }
 /* How links are styled on page load and also after a link has been visited */
 a:link, a:visited {
-  color: #0b8577;
+  color: #6152A2;
   padding: 0px 0px;
   text-align: center;
   text-decoration: none;
 }
 /* how a link is styled when you hover over it */
 a:hover {
-  color: rgb(0, 151, 206);
+  color: #A866AA;
 }
 
 /* specific styling to scale elements down for mobile */
