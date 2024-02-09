@@ -8,8 +8,9 @@
 
 body {
     background-color: #5A9DCF;
-    background-image: url('background-coralreef.png');
+    background-image: url('assets/background-coralreef.png');
     background-repeat: no-repeat;
+    background-position: center;
     overflow: hidden;
 }
 /* the main card container */
@@ -18,7 +19,7 @@ body {
   width: 441px;
   height: 254px;
   position: fixed;
-  top: 50%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
   margin: 0 auto;
