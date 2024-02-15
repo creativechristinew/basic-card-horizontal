@@ -78,9 +78,9 @@ a:hover {
 @media only screen and (max-width: 900px) {
   body {
     background-color: #5A9DCF;
-    background-image: url('assets/background-mobile.png');
+    background-image: url('assets/background-coralreef.png');
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: right;
     overflow: hidden;
 }
  
