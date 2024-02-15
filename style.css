@@ -76,6 +76,14 @@ a:hover {
 
 /* specific styling to scale elements down for mobile */
 @media only screen and (max-width: 900px) {
+  body {
+    background-color: #5A9DCF;
+    background-image: url('assets/background-mobile.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+ 
   .card{
     width: 390px;
     height: 220px;
