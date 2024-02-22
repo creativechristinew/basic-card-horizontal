@@ -8,9 +8,9 @@
 
 body {
     background-color: #78c1d4; 
-    background-image: url('assets/background-coralreef.png');
+    background-image: url('assets/background_coralreef_2.png');
     background-repeat: no-repeat;
-    background-position: center;
+    background-position:center ;
     overflow: hidden;
 }
 /* the main card container */
